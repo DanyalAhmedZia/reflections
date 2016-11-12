@@ -6,3 +6,5 @@ Q2:How is staging area different from the working directory and the repository? 
 A2: Staging area is where we add files to be committed when we do git commit.
 Working directory is where I make actual changes to my files and repository is where commits are stored.
 
+Q3:How can you use the staging area to make sure you have one commit per logical change?
+A3:By using git diff and git diff --staged I can make sure of that.
