@@ -1,0 +1,4 @@
+q1:What happens when you initialize a repository? why do you need to do it?
+a1: After initializing a repository git will keep record of all my commits and I need to do it because otherwise it will be a mere folder
+I will not be able to run git log on it.
+
