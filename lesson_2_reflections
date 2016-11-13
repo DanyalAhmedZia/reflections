@@ -17,3 +17,9 @@ and when you need to take different approoach to your problem at hand.
 Q5:How do the diagrams help you visualize the branch structure?
 A5:Diagrams elaborates that how many branches are there and 
 which commits are reachable and which are not reachable.
+
+Q6:What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+A6:Merging results in anthor commit with two parent commits one from each branch
+and the checkout branch is kept on.Representing it in diagram helps us figurung out which branch should merge into which
+and which commit is reachable and which is not. 
