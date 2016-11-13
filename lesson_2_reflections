@@ -11,4 +11,9 @@ A3:By using git diff and git diff --staged I can make sure of that.
 
 Q4:What are some situations when branches would be helpful in keeping your history organized?
 How would branches help?
-A4: Branches are helpful when you need to test something new without affecting athe master branch and when you need to take different approoach to your problem at hand.
+A4: Branches are helpful when you need to test something new without affecting athe master branch
+and when you need to take different approoach to your problem at hand.
+
+Q5:How do the diagrams help you visualize the branch structure?
+A5:Diagrams elaborates that how many branches are there and 
+which commits are reachable and which are not reachable.
