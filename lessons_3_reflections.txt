@@ -1,3 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 When I need collaborate with others in a project or just for safe keeping in case of my files get removed or my system redered 
 unusable.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Since I Would be updating code on my lcoal repository if I let git autamatically update my remote repository 
+it could render my code on remote useless because my could be in incomplete state so it is beter to update code manually.
